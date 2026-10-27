@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrayerQibla</string>
+    <string name="app_tagline">Your Islamic Daily Companion</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_welcome">Welcome to PrayerQibla</string>
+    <string name="splash_get_started">Get Started</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue to PrayerQibla</string>
+    <string name="email_or_username_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="forgot_password_prompt">Forgot Password?</string>
+    <string name="no_account_prompt">Don\'t have an account?</string>
+    <string name="register_link">Register Now</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Sign up to access all features</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="login_link">Sign In</string>
+
+    <!-- Forgot Password Screen -->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="forgot_password_instruction">Enter your registered email address to receive password recovery instructions.</string>
+    <string name="send_recovery_email">Send Reset Instructions</string>
+    <string name="back_to_login">Back to Sign In</string>
+    <string name="recovery_simulated_msg">Password reset code sent to your email!</string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_instruction">Enter a new password for your account.</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="reset_password_button">Update Password</string>
+    <string name="password_reset_success">Password updated successfully! Please sign in.</string>
+
+    <!-- Dashboard Screen -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_welcome">Assalamu Alaikum,</string>
+    <string name="module_prayer_times">Prayer Times</string>
+    <string name="module_prayer_times_desc">Daily prayer schedule &amp; adhan</string>
+    <string name="module_qibla">Qibla Compass</string>
+    <string name="module_qibla_desc">Find direction to Kaaba</string>
+    <string name="module_quran">Quran Tracker</string>
+    <string name="module_quran_desc">Track daily recitation &amp; surahs</string>
+    <string name="module_calendar">Hijri Calendar</string>
+    <string name="module_calendar_desc">Islamic dates &amp; holy events</string>
+    <string name="module_duas">Daily Duas</string>
+    <string name="module_duas_desc">Collection of authentic supplications</string>
+    <string name="module_profile">User Profile</string>
+    <string name="module_profile_desc">View account &amp; settings</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_account_info">Account Details</string>
+    <string name="label_name">Full Name</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_status">Account Status</string>
+    <string name="label_joined">Member Since</string>
+    <string name="status_verified">Verified Active</string>
+    <string name="logout_button">Log Out</string>
+    <string name="logout_confirmation">Are you sure you want to log out?</string>
+
+    <!-- Validation Errors -->
+    <string name="error_email_required">Email address is required</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_name_required">Full name is required</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_invalid_credentials">Invalid email or password</string>
+    <string name="error_email_exists">An account with this email already exists</string>
+</resources>
